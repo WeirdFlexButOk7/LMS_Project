@@ -1,5 +1,4 @@
-# LMS_Project
-Library Management System for IITM BS Online Degree AppDev1 Project
+# Library Management System 
 
 Librarian Credentials:
 
