@@ -2,9 +2,10 @@
 
 ## Librarian Credentials:
 
-Username: Janani
-Password: 123
+### Username: Janani
+### Password: 123
 
+## Instructions:
 
 run "sh local_setup.sh" on command line to setup the virtual environment and install the python modules.
 
